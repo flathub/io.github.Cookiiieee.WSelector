@@ -16,7 +16,8 @@
         "/share/man",
         "/include",
         "/lib/*.la",
-        "/lib/*.a"
+        "/lib/*.a",
+        "/lib/python3.*/site-packages/*/tests"
     ],
     "modules": [
         {
