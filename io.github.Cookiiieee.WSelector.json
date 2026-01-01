@@ -1,7 +1,7 @@
 {
     "app-id": "io.github.Cookiiieee.WSelector",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "48",
+    "runtime-version": "49",
     "sdk": "org.gnome.Sdk",
     "command": "wselector",
     "finish-args": [
@@ -16,7 +16,8 @@
         "/share/man",
         "/include",
         "/lib/*.la",
-        "/lib/*.a"
+        "/lib/*.a",
+        "/lib/python3.*/site-packages/*/tests"
     ],
     "modules": [
         {
