@@ -22,6 +22,3 @@ git clone git@github.com:flathub/io.github.Cookiiieee.WSelector.git
 flatpak run org.flatpak.Builder build-dir --user --ccache --force-clean --install io.github.Cookiiieee.WSelector.json
 ```
 
----
-
-**Technologies**: GNOME, GTK4, libadwaita, Python
